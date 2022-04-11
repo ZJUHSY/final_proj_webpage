@@ -1,4 +1,4 @@
-# Pathtracer Speed-up Optimization 
+# Project Proposal: Pathtracer Speed-up Optimization 
 
 ## Team Member
 
