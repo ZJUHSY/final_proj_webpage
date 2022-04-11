@@ -50,7 +50,7 @@ Week 4 (5.1-5.7): Gather and summarize all completed optimization results. Creat
 
 ## Resources
 
-K-d Tree: [Resource](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/kdtrees.pdf)
-Octree: [Resource](http://www.open3d.org/docs/release/tutorial/geometry/octree.html)
-Bidirectional path tracing: [Resource](https://www.pbr-book.org/3ed-2018/Light_Transport_III_Bidirectional_Methods/Bidirectional_Path_Tracing)
+K-d Tree: [Resource](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/kdtrees.pdf) \ 
+Octree: [Resource](http://www.open3d.org/docs/release/tutorial/geometry/octree.html) \ 
+Bidirectional path tracing: [Resource](https://www.pbr-book.org/3ed-2018/Light_Transport_III_Bidirectional_Methods/Bidirectional_Path_Tracing) \ 
 CUDA: [Resource](https://nyu-cds.github.io/python-gpu/02-cuda/)
